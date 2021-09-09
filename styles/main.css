@@ -11,6 +11,9 @@ h1{
 }
 
 link{
-   text-align: right
+   text-align: left
 }
 
+body{
+   text-align: center
+}
