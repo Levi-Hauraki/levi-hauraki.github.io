@@ -27,11 +27,12 @@ margin: auto;
    text-align: left;
    float: left;
    column-count: auto;
-   column-width: 30rem; 
+   column-width: 25rem; 
 }
 
 h1, h2,h3{
    margin: 0px;
+   padding: 15px;
 }
 
 #nav{ 
@@ -44,13 +45,14 @@ h1, h2,h3{
    float: right;
 }
 
-*img{
-   width: 400px;
+img{
+   width: 380px;
    height: auto;
    position: absolute;
    top:100px;
    right:47px;
 }
+
 
 #footer{
    clear: both;
