@@ -30,7 +30,13 @@ margin: auto;
    column-width: 25rem; 
 }
 
-h1, h2,h3{
+#h1{
+   text-align: center;
+   margin: 0px;
+   padding: 50px;
+} 
+
+h2,h3{
    margin: 0px;
    padding: 15px;
 }
